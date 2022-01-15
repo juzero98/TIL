@@ -2,6 +2,9 @@
 
 - Today I Learned
 - 공부 기록용
+- 알게된 내용, 실습한 내용, 간단한 내용이라도 꾸준히 기록하기
+
+<br>
 
 # Rule
 
@@ -10,7 +13,6 @@
 - Add : 파일 추가
 - Update : 파일 수정
 
-<br>
 
 ### File
 
@@ -18,9 +20,25 @@
 - 주제별로 분류
 - 파일명은 알아보기 쉽도록 구체적으로
 
-<br>
 
 ### Example
 
     [Add] SpringBoot 환경설정
     [Update] build.gradle Junit 부분 수정
+
+<br>
+
+
+
+# Java
+
+<br>
+
+# 스프링부트와 AWS로 혼자 구현하는 웹 서비스
+
+<br>
+
+# Etc
+
+<br>
+
