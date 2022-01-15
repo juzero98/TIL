@@ -18,12 +18,8 @@
 
 ### Example
 
-<aside>
-💡 [Add] SpringBoot 환경설정
+> [Add] SpringBoot 환경설정
+> 
 
-</aside>
-
-<aside>
-💡 [Update] build.gradle Junit 부분 수정
-
-</aside>
+> [Update] build.gradle Junit 부분 수정
+>
