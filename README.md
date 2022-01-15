@@ -1,6 +1,4 @@
-# TIL
-
-- Today I Learned
+# TIL(Today I Learned)
 - 공부 기록용
 - 알게된 내용, 실습한 내용, 간단한 내용이라도 꾸준히 기록하기
 
@@ -31,10 +29,6 @@
 
 
 # Java
-
-<br>
-
-# 스프링부트와 AWS로 혼자 구현하는 웹 서비스
 
 <br>
 
